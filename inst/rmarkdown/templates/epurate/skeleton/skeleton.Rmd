@@ -10,7 +10,7 @@ home: "www.conssci.umn.edu/people/samuel-safran-0"
 # Provide path to logo image or just delete the field for no logo
 logo: "logo_gallery.png"
 output:
-  epuRate_sfrn::epurate:
+  epuRate::epurate:
     toc: TRUE
     toc_depth: 2
     number_sections: FALSE
