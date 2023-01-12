@@ -30,7 +30,7 @@ Load libraries needed for analysis.
 library(tidyverse)
 library(rmarkdown)
 library(here)
-library(epuRate_sfrn)
+library(epuRate)
 ```
 
 Explain and load input data:
