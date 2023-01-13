@@ -43,7 +43,7 @@ library(tidyverse)
 library(rmarkdown)    # You need this library to run this template.
 library(epuRate)      # Install with devtools: install_github("holtzy/epuRate", force=TRUE)
 library(citr)         # Allows citations and the .bibtex file 
-library(icon)         # Inset icons from many sources in markdown remotes::install_github("mitchelloharawild/icon") download_fontawesome() is one of the greatest icon library
+library(icons)         # Inset icons from many sources in markdown remotes::install_github("mitchelloharawild/icon") download_fontawesome() is one of the greatest icon library
 ```
 
 
