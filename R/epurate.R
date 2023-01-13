@@ -22,7 +22,7 @@ epurate <- function(toc = TRUE, code_folding = "hide", number_sections=TRUE) {
 
 
 # Features of PCTG Template
-PCTG <- function(toc = TRUE, code_folding = "hide", number_sections=TRUE) {
+PCTG <- function(toc = TRUE, toc_depth = 2, code_folding = "hide", number_sections=TRUE) {
 
   # get the locations of resource files located within the package
   css <- system.file("rmarkdown", "templates", "PCTG" ,"resources", "style.css", package = "epuRate")
