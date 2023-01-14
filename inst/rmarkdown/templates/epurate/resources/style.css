@@ -1,13 +1,17 @@
+div.sourceCode {
+    overflow-x: hidden;
+}
+
 h1, .h1, h2, .h2, h3, .h3 {
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
 h1 {
-  padding-top: 100px;
+  padding-top: 50px;
 }
 
 h1.title {
-  text-align: center;
+  text-align: left;
 }
 
 pre {
@@ -34,7 +38,7 @@ a:hover {
 
 /* ---------- TOC ----------------- */
 #TOC {
-  top: 80%;
+  top: 10%;
   position: fixed;
   width: 210px;
 }
