@@ -5,6 +5,8 @@ date: "`r format(Sys.time(), '%Y-%m-%d')`"
 mail: "safra023@umn.edu"
 twitter: "sam_safran"
 orcid: "0000-0003-0742-2321"
+researchgate: "Samuel-Safran"
+scholar: "-qbK01UAAAAJ"
 github: "smsfrn"
 home: "www.conssci.umn.edu/people/samuel-safran-0"
 # Provide path to logo image or just delete the field for no logo
